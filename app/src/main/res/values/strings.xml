@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Piano</string>
+    <string name="c">C</string>
+    <string name="button">Button</string>
+    <string name="c2">C#</string>
+    <string name="d">D#</string>
+    <string name="f">F#</string>
+    <string name="g">G#</string>
+    <string name="a">A#</string>
+    <string name="c_2">C#2</string>
+    <string name="e">E</string>
+    <string name="h">H</string>
+</resources>

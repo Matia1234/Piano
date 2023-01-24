@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4DE91E63"
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+    <Button
+        android:id="@+id/Dsharp"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/d"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Fis"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/f"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="320dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Gis"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/g"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="411dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Ais"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/a"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="502dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Csharp2"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/c_2"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="680dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Csharp"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:background="@color/black"
+        android:text="@string/c2"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="-1dp" />
+
+    <Button
+        android:id="@+id/C1"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/c"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="637dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/C"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/c"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/d"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/E"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/e"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/F"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/f"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="273dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/G"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/g"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="364dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/A"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/a"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="455dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/H"
+        android:layout_width="91.25dp"
+        android:layout_height="326dp"
+        android:text="@string/h"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="546dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
